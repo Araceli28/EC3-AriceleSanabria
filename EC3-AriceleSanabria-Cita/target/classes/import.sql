@@ -1,0 +1,1 @@
+INSERT INTO usuariocliente (usuario,password,rol,idcliente) VALUES ('araceli','$2a$12$YNmMhWZqLlmxRCcpzhpwCeDsT7LQ6P6nN0BN9sVeI4hzlwYYXDdTu','ROLE_PROFESOR',1);
